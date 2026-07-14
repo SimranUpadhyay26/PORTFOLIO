@@ -63,6 +63,7 @@ https://simranupadhyay26.github.io/PORTFOLIO/
 💼 **LinkedIn**  
 [https://www.linkedin.com/in/simran-upadhyay26/
 ](https://www.linkedin.com/in/simran-upadhyay26/)
+
 💻 **GitHub**  
 [https://github.com/SimranUpadhyay26](https://github.com/SimranUpadhyay26)
 
