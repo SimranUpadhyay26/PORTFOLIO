@@ -416,9 +416,9 @@ nav a:hover{
 
     display:grid;
 
-    grid-template-columns:300px 1fr;
+    grid-template-columns:1fr;
 
-    gap:50px;
+    gap:40px;
 
     align-items:center;
 
