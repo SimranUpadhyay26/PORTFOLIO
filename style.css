@@ -416,9 +416,9 @@ nav a:hover{
 
     display:grid;
 
-    grid-template-columns:350px 1fr;
+    grid-template-columns:300px 1fr;
 
-    gap:40px;
+    gap:50px;
 
     align-items:center;
 
@@ -462,9 +462,11 @@ nav a:hover{
 
     color:var(--text);
 
-    line-height:1.9;
+    line-height:1.8;
 
     margin-bottom:25px;
+    
+    max-width:650px;
 
 }
 
