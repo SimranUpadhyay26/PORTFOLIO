@@ -192,6 +192,7 @@ nav a:hover{
 .home-content{
 
     flex:1;
+    max-width:1000px;
 
 }
 
@@ -349,11 +350,7 @@ nav a:hover{
 
 .home-image{
 
-    flex:1;
-
-    display:flex;
-
-    justify-content:center;
+    display:none;
 
 }
 
